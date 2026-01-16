@@ -6,5 +6,5 @@ Changes are pushed to a remote repository.
 Upstream branches are configured for convenience.
 Tracked branches simplify push and pull commands.
 The project includes basic Git operations.
-Mistakes are allowed and used for learning.
-This is a training project only.
+Tracked branches simplify push and pull commands.
+Tracked branches simplify push and pull commands.
