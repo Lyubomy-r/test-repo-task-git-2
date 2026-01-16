@@ -1,0 +1,10 @@
+This project is created to practice Git workflows.
+It helps understand how version control works.
+The repository is used for testing commits.
+Multiple branches are created for experiments.
+Changes are pushed to a remote repository.
+Upstream branches are configured for convenience.
+Tracked branches simplify push and pull commands.
+The project includes basic Git operations.
+Mistakes are allowed and used for learning.
+This is a training project only.
