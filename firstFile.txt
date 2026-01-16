@@ -1,5 +1,5 @@
-This is a test project for practicing Git.
-The purpose is to learn basic Git commands.
+Special attention,
+is given to using.
 It includes working with repositories and commits.
 Branches are created and merged in this project.
 Both local and remote branches are used.
