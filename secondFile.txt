@@ -8,3 +8,5 @@ Tracked branches simplify push and pull commands.
 The project includes basic Git operations.
 Branches are created and merged in this project.
 Branches are created and merged in this project.
+Tracked branches simplify push and pull commands.
+Tracked branches simplify push and pull commands.
