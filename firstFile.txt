@@ -1,7 +1,7 @@
 Special attention,
 is given to using.
-It includes working with repositories and commits.
-Branches are created and merged in this project.
+Git is a distributed version control system changes in source code.
+It enables collaboration project efficiently and safely.
 Both local and remote branches are used.
 The project demonstrates push and pull operations.
 Special attention is given to tracked branches.
