@@ -1,0 +1,10 @@
+This project is created to practice Git workflows.
+It helps understand how version control works.
+The project includes working with commits and branches.
+Changes are tracked using Git version control.
+Multiple branches are pushed to a remote repository.
+The command git push --all is used to push all branches.
+Upstream branches are set using the -u option.
+Tracked branches simplify push and pull operations.
+Designed for hands-on Git learning and experimentation.
+Contains no production code or sensitive data.

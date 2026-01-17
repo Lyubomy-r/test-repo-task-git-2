@@ -1,10 +1,10 @@
-This is a test project for practicing Git.
-The purpose is to learn basic Git commands.
+Special attention,
+is given to using.
 It includes working with repositories and commits.
 Branches are created and merged in this project.
 Both local and remote branches are used.
 The project demonstrates push and pull operations.
 Special attention is given to tracked branches.
 Upstream branches are configured and tested.
-The command git push --all -u is used.
-This project is for learning purposes only.
+Multiple branches are created for experiments.
+Changes are pushed to a remote repository.
